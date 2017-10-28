@@ -1,4 +1,4 @@
-# MLStyleTransfer
+# ML StyleTransfer
 Machine Learning Style Transfer
 
 
